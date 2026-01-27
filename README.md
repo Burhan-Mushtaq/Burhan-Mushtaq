@@ -1,4 +1,59 @@
-## Hi there 👋
+# Hi 👋, I'm Burhan Mushtaq
+
+### MERN Stack Developer | Backend-Focused
+
+I'm a passionate **MERN Stack Developer** focused on building **scalable backend systems, REST APIs, and full‑stack web applications**. I believe in learning by building real‑world projects and improving with every commit.
+
+---
+
+## 🚀 Tech Stack
+
+* **Frontend:** React, HTML, CSS, JavaScript
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Tools:** Git, GitHub, Postman, VS Code
+* **Currently Learning:** Advanced Backend, Authentication, System Design
+
+---
+
+## 🧠 What I'm Working On
+
+* 🔐 Authentication & Authorization systems
+* 💼 MERN Job Portal (real‑world project)
+* 📦 RESTful APIs with proper structure
+* 🚀 Improving backend performance & security
+
+---
+
+## 📌 Featured Projects (Coming Soon)
+
+* **MERN Job Portal** – Auth, roles, CRUD, APIs
+* **Auth System API** – JWT, bcrypt, role‑based access
+* **Full‑Stack Dashboard** – Admin & user panels
+
+*(Projects will be added as I build them)*
+
+---
+
+## 📈 Goals
+
+* Build production‑level MERN applications
+* Contribute to open‑source projects
+* Crack a backend / full‑stack developer role
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: *Coming Soon*
+* 📧 Email: *Add if you want*
+
+---
+
+⭐ If you like my work, consider starring my repositories!
+
+> "Code. Learn. Improve." 🚀
+
 
 <!--
 **Burhan-Mushtaq/Burhan-Mushtaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
