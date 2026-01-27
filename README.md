@@ -45,8 +45,8 @@ I'm a passionate **MERN Stack Developer** focused on building **scalable backend
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: *Coming Soon*
-* 📧 Email: *Add if you want*
+* 💼 LinkedIn: 
+* 📧 Email: burhanmushtaq00@gmail.com
 
 ---
 
